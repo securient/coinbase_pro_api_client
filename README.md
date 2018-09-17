@@ -51,4 +51,5 @@ optional arguments:
   --get_report_status   get report status
   --report_id REPORT_ID
                         get report status
-  --trailing_volume     get 30 day trailing volume```
+  --trailing_volume     get 30 day trailing volume
+  ```
